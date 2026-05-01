@@ -1,16 +1,15 @@
-## Hi there 👋
+# 👋 Hi, I'm Bishal
 
-<!--
-**shabbir2024a-dot/shabbir2024a-dot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Building **AI Factory OS** — an open-source system to run a physical product business with AI.
 
-Here are some ideas to get you started:
+## 🔥 Current Project
+- 🏭 AI Factory OS  
+- Automating 3D printing + ecommerce + inventory  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📌 Goals
+- ⭐ 25,000 GitHub stars
+- 🌍 Build real-world automation tools
+
+## 🔗 Links
+- Repo: https://github.com/shabbir2024a-dot/ai-factory-os## Hi there 👋
+
