@@ -1,0 +1,10 @@
+packages:
+  - 'packages/*'
+  - 'apps/*'
+  - 'tools/*'
+
+catalog:
+  pnpm: '9.0.0'
+
+pnpm:
+  overrides: {}
