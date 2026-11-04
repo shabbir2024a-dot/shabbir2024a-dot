@@ -75,6 +75,25 @@ I am an **AI Systems Architect, Builder, and Founder** based in Guwahati, India.
 
 ---
 
+### 🚀 Production Vercel Deployments & Live Web Applications
+
+A high-performance cluster of production SaaS, creator suites, video AI generators, and local business automation platforms deployed globally across **Vercel's Edge Network**:
+
+| Platform | Production URL | Primary Focus & Capabilities | Tech Stack | Status | Repository |
+|:---|:---|:---|:---|:---:|:---:|
+| **AI Toolkit Pro** | [ai-toolkit-pro-eta.vercel.app](https://ai-toolkit-pro-eta.vercel.app/) | Flagship Creator Suite • Claude Opus 5 Studio • 70+ AI Tools • WhatsApp Smartphone Demo & Control Center | `Next.js 14` `TypeScript` `Tailwind` | ![Live](https://img.shields.io/badge/LIVE-00E5FF?style=flat-square) | [⭐ Code](https://github.com/shabbir2024a-dot/ai-toolkit-pro) |
+| **Bishal Offset** | [bishal-offset.vercel.app](https://bishal-offset.vercel.app/) | Commercial Printing, Packaging & Offset Press Digital Quoting Engine with Live Estimator | `React` `Next.js` `Tailwind` | ![Live](https://img.shields.io/badge/LIVE-10B981?style=flat-square) | [⭐ Code](https://github.com/shabbir2024a-dot/bishal-offset) |
+| **Homestay Concierge** | [homestay-demo-phi.vercel.app](https://homestay-demo-phi.vercel.app/) | Luxury Hospitality & Homestay Booking Engine with Automated WhatsApp VIP Concierge | `Next.js` `Tailwind` `WhatsApp API` | ![Live](https://img.shields.io/badge/LIVE-8B5CF6?style=flat-square) | [⭐ Code](https://github.com/shabbir2024a-dot/homestay-demo) |
+| **Shorts Output** | [shorts-output.vercel.app](https://shorts-output.vercel.app/) | Automated YouTube Shorts Studio & Motion Graphics Video Generation Pipeline | `HTML5 Canvas` `JavaScript` `CSS3` | ![Live](https://img.shields.io/badge/LIVE-FF6D00?style=flat-square) | [⭐ Code](https://github.com/shabbir2024a-dot/shorts-output) |
+| **Open Higgsfield Free** | [open-higgsfield-free.vercel.app](https://open-higgsfield-free.vercel.app/) | Generative AI Video Generation Portal with Camera Motion Prompt Controls | `Next.js` `Video AI` `Edge API` | ![Live](https://img.shields.io/badge/LIVE-00E5FF?style=flat-square) | [🌐 Live App](https://open-higgsfield-free.vercel.app/) |
+| **GradeFlow** | [gradeflow-rouge.vercel.app](https://gradeflow-rouge.vercel.app/) | Intelligent Student Assessment, Grading & Academic Performance Analytics SaaS | `Next.js` `TypeScript` `EdTech` | ![Live](https://img.shields.io/badge/LIVE-10B981?style=flat-square) | [🌐 Live App](https://gradeflow-rouge.vercel.app/) |
+| **Bishal 3D Portfolio** | [bishal-portfolio-three.vercel.app](https://bishal-portfolio-three.vercel.app/) | Interactive Three.js / WebGL 3D Hardware Portfolio & Additive Manufacturing Showcase | `Three.js` `WebGL` `React` | ![Live](https://img.shields.io/badge/LIVE-8B5CF6?style=flat-square) | [⭐ Code](https://github.com/shabbir2024a-dot/bishal-portfolio-3d) |
+| **Shabbir Portfolio V2** | [shabbir-portfolio-v2.vercel.app](https://shabbir-portfolio-v2.vercel.app/) | Enterprise Systems Architecture, AV/IT Infrastructure & Generative AI Systems | `Next.js` `Framer Motion` `Tailwind` | ![Live](https://img.shields.io/badge/LIVE-FF6D00?style=flat-square) | [⭐ Code](https://github.com/shabbir2024a-dot/portfolio) |
+| **AI Sales Machine** | [ai-sales-machine.vercel.app](https://ai-sales-machine.vercel.app/) | Autonomous B2B Funnel, Lead Qualification & WhatsApp Outreach Pipeline | `Next.js` `Sales AI` `Vercel Edge` | ![Live](https://img.shields.io/badge/LIVE-00E5FF?style=flat-square) | [🌐 Live App](https://ai-sales-machine.vercel.app/) |
+| **Shabbir Portfolio Site** | [shabbir-portfolio-site.vercel.app](https://shabbir-portfolio-site.vercel.app/) | Interactive Founder Showcase, Client Acquisition & Technology Advisory | `React` `Tailwind` `Modern UI` | ![Live](https://img.shields.io/badge/LIVE-10B981?style=flat-square) | [🌐 Live App](https://shabbir-portfolio-site.vercel.app/) |
+
+---
+
 ### 🏆 Featured & Flagship Deployments
 
 <table>
