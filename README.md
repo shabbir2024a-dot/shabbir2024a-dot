@@ -2,18 +2,20 @@
 
   <!-- TYPING SVG HEADER (Optimized width & size so text never truncates) -->
   <a href="https://ai-toolkit-pro-eta.vercel.app/">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=21&pause=1400&color=00E5FF&center=true&vCenter=true&width=950&lines=Hey%2C+I'm+Bishal+(Shabbir+Ahmed)+%F0%9F%91%8B;AI+Systems+Architect+%26+Autonomous+Agent+Engineer+%E2%9A%A1;Founder+%40+AI+Toolkit+Pro+%E2%80%A2+Autonomous+Cloud+Systems+%F0%9F%9A%80;Building+24%2F7+Autonomous+Agents%2C+Browser+Robots+%26+Cloud+AI+%F0%9F%A4%96;High-Speed+Microservices%2C+Playwright+Engines+%26+WhatsApp+AI+%E2%9A%A1" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&pause=1400&color=00E5FF&center=true&vCenter=true&width=980&lines=Hey%2C+I'm+Bishal+(Shabbir+Ahmed)+%F0%9F%91%8B;Technology+Project+Manager+(TPM)+%E2%80%A2+50%2B+Projects+Handed+Over+%F0%9F%8F%97%EF%B8%8F;Enterprise+AV%2C+ELV+%26+Intelligent+Infrastructure+Specialist+%E2%9A%A1;AI+Systems+Architect+%26+Founder+%40+AI+Toolkit+Pro+%F0%9F%9A%80;Autonomous+Browser+Robots+(Playwright+%2B+MCP)+%26+Cloud+AI+%F0%9F%A4%96" alt="Typing SVG" />
   </a>
 
   <p align="center">
-    <b>AI Systems Architecture • Autonomous Browser Robots • WhatsApp Cloud AI • Production Microservices</b><br/>
-    <i>Architecting self-driving digital workflows, autonomous agent fleets & resilient cloud intelligence ⚡</i>
+    <b>Technology Project Manager (TPM) • AV, ELV & Intelligent Infrastructure (50+ Projects Handed Over)</b><br/>
+    <b>AI Systems Architect & Founder @ AI Toolkit Pro • Autonomous Browser Robots & Cloud AI</b><br/>
+    <i>Bridging mission-critical physical infrastructure, enterprise IT networks & self-driving autonomous AI systems ⚡</i>
   </p>
 
   <!-- BADGES ROW -->
   <p align="center">
-    <img src="https://img.shields.io/badge/STATUS-SHIPPING%20PRODUCTION%20AI-00E5FF?style=for-the-badge&logoColor=white" alt="Status" />
-    <img src="https://img.shields.io/badge/ROLE-FOUNDER%20%26%20AI%20ARCHITECT-10B981?style=for-the-badge&logoColor=white" alt="Role" />
+    <img src="https://img.shields.io/badge/TPM-50%2B%20ENTERPRISE%20PROJECTS-0A66C2?style=for-the-badge&logoColor=white" alt="TPM 50+ Projects" />
+    <img src="https://img.shields.io/badge/INFRASTRUCTURE-AV%20%7C%20ELV%20%7C%20ENTERPRISE%20IT-10B981?style=for-the-badge&logoColor=white" alt="Infrastructure" />
+    <img src="https://img.shields.io/badge/AI-SYSTEMS%20ARCHITECT%20%26%20FOUNDER-00E5FF?style=for-the-badge&logoColor=white" alt="AI Architect" />
     <img src="https://img.shields.io/badge/LOCATION-GUWAHATI%2C%20INDIA-8B5CF6?style=for-the-badge&logoColor=white" alt="Location" />
     <a href="https://komarev.com/ghpvc/?username=shabbir2024a-dot&color=00e5ff&style=for-the-badge&label=PROFILE+VIEWS">
       <img src="https://komarev.com/ghpvc/?username=shabbir2024a-dot&color=00e5ff&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
@@ -22,6 +24,10 @@
 
   <!-- QUICK SOCIAL & PLATFORM LINKS -->
   <p align="center">
+    <a href="https://www.linkedin.com/in/shabbir-ahmed-a095a3334/">
+      <img src="https://img.shields.io/badge/LINKEDIN-SHABBIR%20AHMED%20(TPM%20%26%20AI)-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    </a>
+    &nbsp;•&nbsp;
     <a href="https://ai-toolkit-pro-eta.vercel.app/">
       <img src="https://img.shields.io/badge/LIVE%20PLATFORM-AI%20TOOLKIT%20PRO-00E5FF?style=flat-square&logo=vercel&logoColor=white" alt="AI Toolkit Pro" />
     </a>
@@ -30,12 +36,12 @@
       <img src="https://img.shields.io/badge/AGENT%20HUB-PLAYWRIGHT%20MCP-3178C6?style=flat-square&logo=playwright&logoColor=white" alt="Autonomous Browser Agent Hub" />
     </a>
     &nbsp;•&nbsp;
-    <a href="https://ai-toolkit-pro-eta.vercel.app/bot-dashboard">
-      <img src="https://img.shields.io/badge/WHATSAPP%20AI-CLOUD%20BOT-25D366?style=flat-square&logo=whatsapp&logoColor=white" alt="WhatsApp Bot" />
+    <a href="https://bishal-portfolio-three.vercel.app/">
+      <img src="https://img.shields.io/badge/3D%20PORTFOLIO-WEBGL%20SPATIAL-8B5CF6?style=flat-square&logo=three.js&logoColor=white" alt="3D Portfolio" />
     </a>
     &nbsp;•&nbsp;
-    <a href="https://www.linkedin.com/in/shabbir-ahmed-a095a3334/">
-      <img src="https://img.shields.io/badge/LINKEDIN-SHABBIR%20AHMED-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <a href="https://ai-toolkit-pro-eta.vercel.app/bot-dashboard">
+      <img src="https://img.shields.io/badge/WHATSAPP%20AI-CLOUD%20BOT-25D366?style=flat-square&logo=whatsapp&logoColor=white" alt="WhatsApp Bot" />
     </a>
     &nbsp;•&nbsp;
     <a href="mailto:shabbir2024a@gmail.com">
@@ -53,13 +59,18 @@
 
 ### ⚡ Executive Overview
 
-I am an **AI Systems Architect, Builder, and Founder** based in Guwahati, India. I specialize in designing and deploying full-stack autonomous systems that bridge cutting-edge foundational reasoning models (Claude Opus/Sonnet, InceptionLabs Mercury-3, GPT-4o), high-availability cloud infrastructure (Google Cloud Compute Engine, Vercel Edge Serverless), and self-driving browser automation (Playwright MCP bots across LinkedIn, YouTube, and Facebook).
+I am a **Technology Project Manager (TPM)** and **AI Systems Architect** based in Guwahati, India. 
 
-- 🔭 **Flagship Platform**: [**AI Toolkit Pro**](https://ai-toolkit-pro-eta.vercel.app/) — Enterprise creator toolkit featuring a zero-cost Claude Opus 5 studio, 70+ curated AI tools, and an interactive smartphone WhatsApp AI bot simulator.
+Over the past **5+ years**, I have spearheaded the design, engineering management, and turnkey commissioning of **50+ mission-critical commercial, enterprise, and high-end residential projects** across Enterprise Audiovisual (AV), Extra Low Voltage (ELV), Structured IT Networks, and Intelligent Building Automation (including leadership as Project Information Manager at Area27).
+
+Alongside physical infrastructure leadership, I architect and deploy **enterprise autonomous AI systems** — combining foundational reasoning models (Claude Opus/Sonnet, InceptionLabs Mercury-3, GPT-4o), high-availability cloud infrastructure (Google Cloud VPS, Vercel Serverless Edge), and self-driving browser automation (Playwright Stealth MCP bots orchestrating LinkedIn, YouTube Studio, and Facebook).
+
+- 🏗️ **Primary Profession & Core Leadership**: **Technology Project Manager (TPM)** — Turnkey execution of 50+ enterprise spaces, master schematic reviews, vendor contracts, acoustic/lighting engineering, IT rack architecture, and smart automation systems.
+- 🔭 **Flagship AI Platform**: [**AI Toolkit Pro**](https://ai-toolkit-pro-eta.vercel.app/) — Enterprise creator toolkit featuring a zero-cost Claude Opus 5 studio, 70+ curated AI tools, and an interactive smartphone WhatsApp AI bot simulator.
 - 🤖 **Autonomous Browser Hub**: [**Autonomous Browser Agent Hub**](https://github.com/shabbir2024a-dot/autonomous-browser-agent-hub) — Self-driving multi-platform browser automation across LinkedIn, YouTube Studio, and Facebook powered by Playwright Stealth and Model Context Protocol (MCP).
 - 💬 **Autonomous AI Receptionist**: [**24/7 WhatsApp AI Bot**](https://github.com/shabbir2024a-dot/whatsapp-ai-bot) — Deployed on Google Cloud Always-Free VPS (`35.238.38.242`) with sub-2s response latency, Baileys multi-device sockets, dynamic green "typing..." presence emulation, and an anti-ban outbound lead engine.
 - 🗄️ **Lead Intelligence & CRM**: [**Antopus CRM Leads Engine**](https://github.com/shabbir2024a-dot/antopus-crm-leads-engine) — Zero-dependency embedded TypeScript database built on `@bigsur/antopus`, managing 200+ verified Guwahati B2B prospects with full-text search and web Studio interface.
-- 🎯 **Engineering Principles**: Sub-second latency, zero-lock-in local-first databases, self-healing daemons, and measurable business revenue.
+- 🎯 **Engineering Principles**: 100% on-time project handover, zero-lock-in local-first databases, sub-second latency, and measurable business ROI.
 
 ---
 
@@ -94,7 +105,7 @@ I am an **AI Systems Architect, Builder, and Founder** based in Guwahati, India.
 
 ```
 ┌────────────────────────────────────────────────────────────────────────────────────────┐
-│  📡 CLOUD CLUSTERS & ACTIVE DEPLOYMENTS                                                │
+│  📡 CLOUD CLUSTERS, ACTIVE DEPLOYMENTS & INFRASTRUCTURE MATRIX                         │
 ├────────────────────────────────────────────────────────────────────────────────────────┤
 │  ⚡ Google Cloud VPS (us-central1-f) │ IP: 35.238.38.242 │ PM2 Daemon │ 2GB Linux Swap   │
 │  🤖 Conversational Engine            │ InceptionLabs Mercury-3 LLM │ Sub-2s Latency     │
@@ -102,6 +113,7 @@ I am an **AI Systems Architect, Builder, and Founder** based in Guwahati, India.
 │  🚀 Global Edge Network              │ Vercel Serverless │ 10-Min Cloud Keepalive Ping │
 │  🗄️ Embedded Database Engine        │ @bigsur/antopus │ 200+ Leads │ Port 5555 Studio  │
 │  🤖 Autonomous Browser Hub           │ Playwright Stealth │ LinkedIn + YouTube + FB     │
+│  🏗️ Enterprise Infrastructure        │ 50+ Completed AV/ELV/IT Projects Handed Over    │
 └────────────────────────────────────────────────────────────────────────────────────────┘
 ```
 
@@ -198,6 +210,9 @@ A high-performance cluster of production SaaS, creator suites, video AI generato
 
 | Domain | Stack & Tools |
 |:---|:---|
+| **TPM & Project Leadership** | `Project Information Management (PIM)` `Turnkey Site Execution (50+ Projects)` `Vendor & SLA Management` `CAD / BIM Schematics` `BOQ / BOM Costing` `Site Audits` |
+| **Enterprise AV & Control Systems** | `Crestron` `Extron` `Biamp` `Dante Audio Over IP (AoIP)` `Q-SYS` `Video Wall Processing` `Acoustic Engineering` `Digital Signage` |
+| **IT & Intelligent Infrastructure** | `Cisco Enterprise Switching` `Ubiquiti UniFi Networks` `VLAN Segmentation` `Structured Fiber Optics & Cat6A` `Server Rack Integration` `Smart BMS & IoT Sensors` `ELV & CCTV Security` |
 | **AI & LLM Orchestration** | `InceptionLabs Mercury-3` `Claude 3.5 Sonnet` `Claude Opus 5` `OpenAI GPT-4o` `Gemini 2.0 Flash` `Vercel AI SDK` `Prompt Engineering` |
 | **Autonomous Browser & Agent Ops** | `Playwright Core` `Model Context Protocol (MCP)` `Headless Chromium` `Stealth Scrapers` `DOM Virtualization` `Anti-Ban Sockets` |
 | **Languages & Core** | `TypeScript` `JavaScript (ES6+)` `Node.js LTS (v22)` `Python 3` `SQL` `HTML5` `CSS3` `Bash / Zsh` |
