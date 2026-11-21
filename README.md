@@ -52,11 +52,11 @@ On the side: I build tools that save small businesses time.
 |:--|:--|:--|
 | **AI Toolkit Pro** | A free directory of 70+ AI tools with a creator studio and a phone-style WhatsApp bot demo | [Live](https://ai-toolkit-pro-eta.vercel.app/) · [Code](https://github.com/shabbir2024a-dot/ai-toolkit-pro) |
 | **Bishal Offset** | Website for a printing press, with an instant price calculator for print jobs | [Live](https://bishal-offset.vercel.app/) · [Code](https://github.com/shabbir2024a-dot/bishal-offset) |
-| **Highland Pine Retreat** | Direct-booking website for a holiday homestay, with WhatsApp booking | [Live](https://homestay-demo-phi.vercel.app/) · [Code](https://github.com/shabbir2024a-dot/homestay-demo) |
+| **Highland Pine Retreat** | Direct-booking website for a holiday cabin, so the owner skips OTA commission | [Live](https://homestay-demo-phi.vercel.app/) · [Code](https://github.com/shabbir2024a-dot/homestay-demo) |
 | **GradeFlow** | AI grader for a chemistry coaching institute: reads scanned answer sheets, marks them step by step, ranks students | [Live](https://gradeflow-rouge.vercel.app/) · client project |
 | **WhatsApp AI Receptionist** | A 24/7 WhatsApp assistant that replies to business enquiries in under 2 seconds | [Demo](https://ai-toolkit-pro-eta.vercel.app/whatsapp-demo) · client project |
 | **Browser Agent Hub** | Playwright + MCP robots that post to LinkedIn, upload to YouTube Studio and publish to Facebook | [Code](https://github.com/shabbir2024a-dot/autonomous-browser-agent-hub) |
-| **Shorts Output** | Script-to-video studio that renders motion-graphic YouTube Shorts in the browser | [Live](https://shorts-output.vercel.app/) · [Code](https://github.com/shabbir2024a-dot/shorts-output) |
+| **Shorts Output** | Showcase of my AI-made YouTube Shorts, with an in-browser 3D physics sandbox | [Live](https://shorts-output.vercel.app/) · [Code](https://github.com/shabbir2024a-dot/shorts-output) |
 | **Antopus CRM** | A small local-first CRM in TypeScript for tracking leads and conversations | [Code](https://github.com/shabbir2024a-dot/antopus-crm-leads-engine) |
 
 ---
