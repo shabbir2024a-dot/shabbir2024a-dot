@@ -106,7 +106,7 @@ I manage **AV, ELV and IT infrastructure projects** (50+ commercial and resident
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=ts,js,python,php,react,nextjs,threejs,tailwind,nodejs,fastapi,postgres,sqlite,vercel,gcp,docker,linux&perline=16&theme=dark" />
-  <img src="https://skillicons.dev/icons?i=ts,js,python,php,react,nextjs,threejs,tailwind,nodejs,fastapi,postgres,sqlite,vercel,gcp,docker,linux&perline=16&theme=light" alt="TypeScript, JavaScript, Python, PHP, React, Next.js, Three.js, Tailwind, Node.js, FastAPI, Postgres, SQLite, Vercel, Google Cloud, Docker, Linux" width="100%" />
+  <img src="https://skillicons.dev/icons?i=ts,js,python,php,react,nextjs,threejs,tailwind,nodejs,fastapi,postgres,sqlite,vercel,gcp,docker,linux&perline=16&theme=light" alt="TypeScript, JavaScript, Python, PHP, React, Next.js, Three.js, Tailwind, Node.js, FastAPI, Postgres, SQLite, Vercel, Google Cloud, Docker, Linux" />
 </picture>
 
 ---
