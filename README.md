@@ -88,7 +88,7 @@
   <img src="https://skillicons.dev/icons?i=ts,js,python,php,react,nextjs,threejs,tailwind,nodejs,fastapi,postgres,sqlite,vercel,gcp,docker,linux&perline=16&theme=light" alt="TypeScript, JavaScript, Python, PHP, React, Next.js, Three.js, Tailwind, Node.js, FastAPI, Postgres, SQLite, Vercel, Google Cloud, Docker, Linux" />
 </picture>
 
-<sub>AV &amp; IT: Crestron · Extron · Biamp · Q-SYS · Dante · Cisco · Ubiquiti UniFi &nbsp;·&nbsp; AI: Claude · Gemini · GPT · Playwright · MCP</sub>
+<sub>AV, lighting &amp; automation: Lutron · Crestron · BuildTrack · Jung · Endo · Control4 · Delta Light · networking &amp; ELV &nbsp;·&nbsp; AI: Claude · Gemini · GPT · Playwright · MCP</sub>
 
 <br/><br/>
 
