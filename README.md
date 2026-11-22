@@ -1,87 +1,117 @@
-<div align="center">
+<a href="https://shabbir-ahmed-portfolio-3d.vercel.app">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/header-dark.gif" />
+    <img src="assets/header-light.gif" alt="Shabbir Ahmed — Project manager, AV, IT & ELV infrastructure. Also builds AI tools and web apps." width="100%" />
+  </picture>
+</a>
 
-# Hi, I'm Shabbir (Bishal) 👋
+<p>
+  <a href="https://shabbir-ahmed-portfolio-3d.vercel.app"><img src="https://img.shields.io/badge/3D_Portfolio-000000?style=for-the-badge&logo=threedotjs&logoColor=white" alt="3D Portfolio" /></a>
+  <a href="https://www.linkedin.com/in/shabbir-ahmed-a095a3334/"><img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:shabbir2024a@gmail.com"><img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <img src="https://img.shields.io/badge/●_Open_to_projects-ff6a3d?style=for-the-badge" alt="Open to projects" />
+</p>
 
-**Technology Project Manager · AV, ELV & IT infrastructure**<br/>
-**I also build AI tools and web apps for small businesses**
-
-Guwahati, India &nbsp;·&nbsp; 50+ commercial & residential projects delivered
-
-<a href="https://shabbir-ahmed-portfolio-3d.vercel.app"><img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
-<a href="https://www.linkedin.com/in/shabbir-ahmed-a095a3334/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-<a href="mailto:shabbir2024a@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-
-</div>
+I manage **AV, ELV and IT infrastructure projects** (50+ commercial and residential spaces, from drawings to handover). On the side I **build software for small businesses**: ordering apps, WhatsApp tools, SaaS products and websites.
 
 ---
 
-## What I do
+### 01 — Products
+
+<sub>Ready-made software I sell as source code. Each page has screenshots and features.</sub>
 
 <table>
 <tr>
-<td width="50%" valign="top">
+<td width="50%"><a href="https://github.com/shabbir2024a-dot/titan-ai-trading-desk"><img src="assets/covers/titan-ai-trading-desk.jpg" alt="TITAN AI" width="100%" /></a></td>
+<td width="50%"><a href="https://github.com/shabbir2024a-dot/chatflow-crm"><img src="assets/covers/chatflow-crm.jpg" alt="ChatFlow CRM" width="100%" /></a></td>
+</tr>
+<tr>
+<td><a href="https://github.com/shabbir2024a-dot/reviewpilot"><img src="assets/covers/reviewpilot.jpg" alt="ReviewPilot" width="100%" /></a></td>
+<td><a href="https://github.com/shabbir2024a-dot/linkforge"><img src="assets/covers/linkforge.jpg" alt="LinkForge" width="100%" /></a></td>
+</tr>
+<tr>
+<td><a href="https://github.com/shabbir2024a-dot/keyforge"><img src="assets/covers/keyforge.jpg" alt="KeyForge" width="100%" /></a></td>
+<td><a href="https://github.com/shabbir2024a-dot/certforge"><img src="assets/covers/certforge.jpg" alt="CertForge" width="100%" /></a></td>
+</tr>
+<tr>
+<td><a href="https://github.com/shabbir2024a-dot/resumeforge"><img src="assets/covers/resumeforge.jpg" alt="ResumeForge" width="100%" /></a></td>
+<td><a href="https://github.com/shabbir2024a-dot/vcard-pro"><img src="assets/covers/vcard-pro.jpg" alt="VCard Pro" width="100%" /></a></td>
+</tr>
+<tr>
+<td><a href="https://github.com/shabbir2024a-dot/siteforge"><img src="assets/covers/siteforge.jpg" alt="SiteForge" width="100%" /></a></td>
+<td><a href="https://github.com/shabbir2024a-dot/small-business-tools"><img src="assets/covers/small-business-tools.jpg" alt="Small Business Tools" width="100%" /></a></td>
+</tr>
+</table>
 
-### 🏗️ Infrastructure projects
-My day job: I take commercial and high-end residential spaces from drawings to handover.
+### 02 — Client work & live sites
 
-- AV, ELV and structured IT networks
-- Smart building and automation systems
-- CAD schematics, BOQ / BOM costing, vendor management
-- Site audits, testing and commissioning
+<table>
+<tr>
+<td width="50%"><a href="https://github.com/shabbir2024a-dot/kiga-qr-ordering-loyalty"><img src="assets/covers/kiga-qr-ordering-loyalty.jpg" alt="Kiga Icecream App" width="100%" /></a></td>
+<td width="50%"><a href="https://github.com/shabbir2024a-dot/gradeflow"><img src="assets/covers/gradeflow.jpg" alt="GradeFlow" width="100%" /></a></td>
+</tr>
+<tr>
+<td><a href="https://github.com/shabbir2024a-dot/bishal-offset"><img src="assets/covers/bishal-offset.jpg" alt="Bishal Offset" width="100%" /></a></td>
+<td><a href="https://github.com/shabbir2024a-dot/homestay-demo"><img src="assets/covers/homestay-demo.jpg" alt="Highland Pine Retreat" width="100%" /></a></td>
+</tr>
+<tr>
+<td><a href="https://github.com/shabbir2024a-dot/ai-toolkit-pro"><img src="assets/covers/ai-toolkit-pro.jpg" alt="AI Toolkit Pro" width="100%" /></a></td>
+<td><a href="https://github.com/shabbir2024a-dot/shorts-output"><img src="assets/covers/shorts-output.jpg" alt="Shorts Output" width="100%" /></a></td>
+</tr>
+</table>
 
-</td>
-<td width="50%" valign="top">
+### 03 — Open source
 
-### 🤖 AI & web products
-On the side: I build tools that save small businesses time.
-
-- Booking, ordering and quoting websites
-- WhatsApp assistants that answer customers
-- Browser automation with Playwright + MCP
-- AI pipelines for content and grading
-
-</td>
+<table>
+<tr>
+<td width="50%"><a href="https://github.com/shabbir2024a-dot/autonomous-browser-agent-hub"><img src="assets/covers/autonomous-browser-agent-hub.jpg" alt="Browser Agent Hub" width="100%" /></a></td>
+<td width="50%"><a href="https://github.com/shabbir2024a-dot/antopus-crm-leads-engine"><img src="assets/covers/antopus-crm-leads-engine.jpg" alt="Antopus CRM" width="100%" /></a></td>
 </tr>
 </table>
 
 ---
 
-## Featured work
+### 04 — What I do
 
-| Project | What it is | Links |
-|:--|:--|:--|
-| **AI Toolkit Pro** | A free directory of 70+ AI tools with a creator studio and a phone-style WhatsApp bot demo | [Live](https://ai-toolkit-pro-eta.vercel.app/) · [Code](https://github.com/shabbir2024a-dot/ai-toolkit-pro) |
-| **Bishal Offset** | Website for a printing press, with an instant price calculator for print jobs | [Live](https://bishal-offset.vercel.app/) · [Code](https://github.com/shabbir2024a-dot/bishal-offset) |
-| **Highland Pine Retreat** | Direct-booking website for a holiday cabin, so the owner skips OTA commission | [Live](https://homestay-demo-phi.vercel.app/) · [Code](https://github.com/shabbir2024a-dot/homestay-demo) |
-| **GradeFlow** | AI grader for a chemistry coaching institute: reads scanned answer sheets, marks them step by step, ranks students | [Live](https://gradeflow-rouge.vercel.app/) · client project |
-| **WhatsApp AI Receptionist** | A 24/7 WhatsApp assistant that replies to business enquiries in under 2 seconds | [Demo](https://ai-toolkit-pro-eta.vercel.app/whatsapp-demo) · client project |
-| **Browser Agent Hub** | Playwright + MCP robots that post to LinkedIn, upload to YouTube Studio and publish to Facebook | [Code](https://github.com/shabbir2024a-dot/autonomous-browser-agent-hub) |
-| **Shorts Output** | Showcase of my AI-made YouTube Shorts, with an in-browser 3D physics sandbox | [Live](https://shorts-output.vercel.app/) · [Code](https://github.com/shabbir2024a-dot/shorts-output) |
-| **Antopus CRM** | A small local-first CRM in TypeScript for tracking leads and conversations | [Code](https://github.com/shabbir2024a-dot/antopus-crm-leads-engine) |
+<table>
+<tr>
+<td width="50%" valign="top">
+
+**Infrastructure projects** — day job
+
+- AV, ELV and structured IT networks
+- Smart building and automation systems
+- CAD schematics, BOQ / BOM costing, vendors
+- Site audits, testing and commissioning
+
+<sub>Crestron · Extron · Biamp · Q-SYS · Dante · Cisco · UniFi</sub>
+
+</td>
+<td width="50%" valign="top">
+
+**Software for small businesses** — side work
+
+- QR ordering, loyalty and booking apps
+- WhatsApp inboxes and assistants
+- Self-hosted SaaS tools, sold as source code
+- Browser automation with Playwright + MCP
+
+<sub>Claude · Gemini · GPT · Playwright · MCP</sub>
+
+</td>
+</tr>
+</table>
+
+### 05 — Stack
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=ts,js,python,php,react,nextjs,threejs,tailwind,nodejs,fastapi,postgres,sqlite,vercel,gcp,docker,linux&perline=16&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=ts,js,python,php,react,nextjs,threejs,tailwind,nodejs,fastapi,postgres,sqlite,vercel,gcp,docker,linux&perline=16&theme=light" alt="TypeScript, JavaScript, Python, PHP, React, Next.js, Three.js, Tailwind, Node.js, FastAPI, Postgres, SQLite, Vercel, Google Cloud, Docker, Linux" width="100%" />
+</picture>
 
 ---
 
-## Tools I use
-
-<p>
-  <img src="https://skillicons.dev/icons?i=ts,js,python,react,nextjs,tailwind,threejs,nodejs,vercel,gcp,docker,linux,sqlite,git&perline=14" alt="Tech stack" />
+<p align="center">
+  <b>Need an app, a WhatsApp tool or help with an AV / IT project?</b><br/>
+  <a href="mailto:shabbir2024a@gmail.com">Email me</a> · <a href="https://www.linkedin.com/in/shabbir-ahmed-a095a3334/">LinkedIn</a> · <a href="https://shabbir-ahmed-portfolio-3d.vercel.app">Portfolio</a>
 </p>
-
-**AV & IT:** Crestron · Extron · Biamp · Q-SYS · Dante · Cisco · Ubiquiti UniFi · Cat6A & fibre<br/>
-**AI:** Claude · Gemini · GPT · Playwright · Model Context Protocol (MCP)
-
----
-
-## GitHub stats
-
-<img src="https://github-readme-stats.vercel.app/api?username=shabbir2024a-dot&show_icons=true&hide_border=true&theme=transparent&title_color=0A66C2&icon_color=0A66C2" height="165" alt="GitHub stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shabbir2024a-dot&layout=compact&hide_border=true&theme=transparent&title_color=0A66C2" height="165" alt="Top languages" />
-
----
-
-<div align="center">
-
-**Need a website, a WhatsApp assistant, or help with an AV / IT project?**<br/>
-[Email me](mailto:shabbir2024a@gmail.com) or message me on [LinkedIn](https://www.linkedin.com/in/shabbir-ahmed-a095a3334/).
-
-</div>
