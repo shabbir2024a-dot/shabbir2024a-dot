@@ -1,7 +1,7 @@
 <a href="https://shabbir-ahmed-portfolio-3d.vercel.app">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="assets/header-dark.gif" />
-    <img src="assets/header-light.gif" alt="Shabbir Ahmed — Project manager, AV, IT &amp; ELV infrastructure. Also builds AI tools and web apps." width="100%" />
+    <img src="assets/header-light.gif" alt="Shabbir Ahmed — Associate Project Manager, AV, IT &amp; ELV infrastructure. Also builds AI tools and web apps." width="100%" />
   </picture>
 </a>
 
