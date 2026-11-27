@@ -16,6 +16,8 @@
 
 <picture><source media="(prefers-color-scheme: dark)" srcset="assets/ui/products-dark.png" /><img src="assets/ui/products-light.png" alt="Products — software I sell as source code" width="100%" /></picture>
 
+<a href="https://github.com/shabbir2024a-dot/shabbir2024a-dot/tree/main/showcase/hotel-management-system"><img src="assets/covers/hotel-management-system-wide.jpg" alt="Hotel Management System" width="100%" /></a>
+
 <a href="https://github.com/shabbir2024a-dot/titan-ai-trading-desk"><img src="assets/covers/titan-ai-trading-desk-wide.jpg" alt="TITAN AI" width="100%" /></a>
 
 <table>
